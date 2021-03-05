@@ -1,2 +1,2 @@
-# pweb_2020.2_patriciaNayara
- Meu repositorio da disciplina de PWeb
+# Repositório de Patricia Nayara - PWeb 2020.2
+ Meu repositório da disciplina de PWeb
